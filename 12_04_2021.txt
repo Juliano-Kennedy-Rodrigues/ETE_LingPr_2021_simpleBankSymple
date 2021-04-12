@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-alterando no pc para dar conflito dia 12_04 as 08:54
-=======
 alterando para dar conflito dia 12_04 as 08:53
->>>>>>> 9cbadf7fb49c943eb76b7ff994aa43cb10ffef2d
