@@ -1,1 +1,1 @@
-Linha alterada no navegador no dia 12/04 para simular cinflito.
+Linha alterada no navegador no dia 12/04 para simular conflito.
